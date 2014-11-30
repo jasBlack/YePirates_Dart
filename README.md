@@ -1,4 +1,8 @@
 YePirates_Dart
 ==============
 
-learning Dart
+learning Dart.
+
+Feeling excited :).
+
+Rabbits will rule.
